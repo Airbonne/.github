@@ -1,6 +1,6 @@
 ## Hello 👋
 
-💪 Ici CO2Sorbonne, un projet ambitieux qui vise a améliorer la qualité de l'air des étudiants dans leurs classes!
+💪 Ici Airbonne, un projet ambitieux qui vise a améliorer la qualité de l'air des étudiants dans leurs classes!
 
 🤌 Notre but est de donner à chacun.e les meilleures conditions d'études en controlant en temps réel la qualité de l'air en classe.
 
